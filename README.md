@@ -1,2 +1,2 @@
 # comp-584-hw3-mm
-homework 3
+https://marmehr.github.io/comp-584-hw3-mm/
